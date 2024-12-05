@@ -1,4 +1,4 @@
-# Traffic Sign and Object Detection System
+# Blind person assistance
 
 This project integrates traffic sign detection, object detection, real-time video processing, and fall detection. It uses a combination of OpenCV, machine learning, Firebase Realtime Database, and PyQt5 for GUI development.
 
